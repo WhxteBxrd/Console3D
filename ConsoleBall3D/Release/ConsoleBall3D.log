@@ -1,0 +1,16 @@
+﻿  Main.cpp
+C:\Users\chiji\Desktop\ConsoleBall3D\Main.cpp(19,56): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\ConsoleBall3D\Main.cpp(19,41): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\ConsoleBall3D\Main.cpp(24,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\ConsoleBall3D\Main.cpp(24,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\ConsoleBall3D\Main.cpp(24,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\ConsoleBall3D\Main.cpp(24,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\ConsoleBall3D\Main.cpp(38,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\ConsoleBall3D\Main.cpp(38,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\ConsoleBall3D\Main.cpp(38,30): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Создание кода
+  1 of 25 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleBall3D.vcxproj -> C:\Users\chiji\Desktop\Console3D\Release\ConsoleBall3D.exe

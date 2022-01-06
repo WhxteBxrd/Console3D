@@ -1,0 +1,29 @@
+﻿  Console3D.cpp
+C:\Users\chiji\Desktop\Console3D\VecFunctions.h(16,75): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\VecFunctions.h(16,64): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\VecFunctions.h(16,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\VecFunctions.h(17,105): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\VecFunctions.h(17,86): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\VecFunctions.h(17,67): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\VecFunctions.h(23,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\VecFunctions.h(24,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\VecFunctions.h(31,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\VecFunctions.h(32,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\VecFunctions.h(39,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\VecFunctions.h(40,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\Console3D.cpp(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\chiji\Desktop\Console3D\Console3D.cpp(7,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\chiji\Desktop\Console3D\Console3D.cpp(43,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\Console3D.cpp(43,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\Console3D.cpp(43,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\Console3D.cpp(43,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\Console3D.cpp(75,51): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\Console3D.cpp(76,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\Console3D.cpp(82,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\Console3D.cpp(82,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\chiji\Desktop\Console3D\Console3D.cpp(82,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 37 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Console3D.vcxproj -> C:\Users\chiji\Desktop\Console3D\Release\Console3D.exe
